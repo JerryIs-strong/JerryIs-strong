@@ -1,1 +1,1 @@
-![JERRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JERRY&show_icons=true)
+[JERRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=radical)
