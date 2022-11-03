@@ -1,1 +1,3 @@
-[![JERRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryIs-strong)](https://github.com/JerryIs-strong/github-readme-stats)
+<div align=”center”>
+![JERRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JERRY&show_icons=true)
+</div>
