@@ -31,4 +31,7 @@
 #### Storage service dependencies
   <img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+
+#### About my website
+  ![Building](https://github.com/JerryIs-strong/jerryis-strong.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?query=branch%3Amain)
 </div>
