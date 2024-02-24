@@ -1,5 +1,5 @@
 <div align="center">
- <img src="/banner.png" style="width:60%;"></img>
+ <img src="/banner.png" width=60%></img>
 
 #### I'm learning
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -24,10 +24,8 @@
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 
  <hr>
- <div>
-  <a href="https://github.com/JerryIs-strong" style="margin-top: 30px;">
+  <a href="https://github.com/JerryIs-strong">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=github_dark" />&emsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIs-strong&layout=donut&theme=github_dark" />
   </a>
- </div>
 </div>
