@@ -1,7 +1,10 @@
 <div align="center">
  <br/>
+ <br/>
  <img src="/banner.png" width=85%></img>
  <br/>
+ <br/>
+ <hr/>
  
 #### I'm learning
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
