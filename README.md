@@ -30,7 +30,6 @@
 
  <hr>
   <a href="https://github.com/JerryIs-strong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=github_dark" />&emsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIs-strong&layout=donut&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=github_dark" />
   </a>
 </div>
