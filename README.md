@@ -15,4 +15,5 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux3.svg">
 </div>
