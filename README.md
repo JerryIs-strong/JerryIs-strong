@@ -15,11 +15,11 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerryIs-strong&show_icons=true&theme=dracula)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIs-strong&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIs-strong&layout=compact&theme=dracula)
 
 ### Connect with Me
 
