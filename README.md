@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**[Your GitHub Username]/[Your GitHub Username]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-I'm John, a passionate software engineer from San Francisco. I love building awesome applications that solve real-world problems and make a positive impact. Let's connect and build something great together!
-
 - 🔭 I am currently studying in **PLK83 Collage**
 - 💬 I'm currently learning **Java/Kotlin**
 - ✨ I'm looking to collaborate on **Android Development**
