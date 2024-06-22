@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently studying in **PLK83 Collage**
+- 🔭 I am currently studying in **PLK83 College**
 - 💬 I'm currently learning **Java/Kotlin**
 - ✨ I'm looking to collaborate on **Android Development**
 - ⚡ I'm a **Mi Fans**
