@@ -1,13 +1,3 @@
-### Hi there 👋
-
-- 🔭 I am currently studying in **PLK83 College**
-- 💬 I'm currently learning **Java/Kotlin**
-- ✨ I'm looking to collaborate on **Android Development**
-
-<p>
-  <img src="https://i.imgur.com/p4w5pAB.png" width="300" alt="Anime Picture">
-</p>
-
 ### Skills
 
 <img alt="Skills" src="https://skillicons.dev/icons?i=js,mysql,git,py,linux" />
