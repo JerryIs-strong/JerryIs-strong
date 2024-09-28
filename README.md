@@ -3,7 +3,7 @@ A secondary student learning at \
 <img alt="Skills" src="https://skillicons.dev/icons?i=js,mysql,git,py,linux" />
 \
 \
-And i'm interesting at ***Cyber Securoty*** & ***Web Developing***!
+And i'm interesting at ***Cyber Security*** & ***Web Developing***!
 
 ### GitHub Stats
 
