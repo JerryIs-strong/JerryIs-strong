@@ -1,4 +1,4 @@
-A secondary student learning at \
+Hello👋, i'm learning at \
 \
 <img alt="Skills" src="https://skillicons.dev/icons?i=js,mysql,git,py,linux" />
 \
